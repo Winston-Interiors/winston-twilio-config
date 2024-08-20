@@ -1,5 +1,5 @@
 <Response>
 <Say voice="woman">This number is not monitored.</Say>
 <Pause length="1"/>
-<Say voice="woman">Please hang up and dial 01293 903 703.</Say>
+<Say voice="woman">Please hang up and dial 0 1 2 9 3 9 0 3 7 0 3.</Say>
 </Response>
